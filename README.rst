@@ -6,3 +6,4 @@ Useful repetitive stuffs that is not included out of the box in django
 
 #. Notifications for user message
 #. Small templatetags helper for sitemedia
+#. Simple search queryset enhancements
